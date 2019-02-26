@@ -1,0 +1,2 @@
+highestScore = 26
+name = [Abdul Qadir Katthawala]
